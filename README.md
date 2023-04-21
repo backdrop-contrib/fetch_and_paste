@@ -18,6 +18,11 @@ This module would present a field type of "fetch_and_paste" which, in its defini
 - Specific field, from said source, to copy
 - It would be great to duplicate the current functionality of the "node_reference" or "entity_reference" modules with respect to their ability to utilize a filtered view of said source nodes or entities.
 
+## Future Extentions of Functionality
+
+I can foresee the need to extend the functionality from that described above (simply copying the value of a specific field of the parent entity or node) to that of duplicating (cloning) the entire entity or node itself, and refencing said clone as an entity or node reference in the current document (node). This could very well be the preferred mode in some cases.
+
+## Development
 I believe that my approach would be to use the code of one of the aforementioned modules as a basis upon which to develop this module.
 
 This envisioned module does not yet exist. I will be working on it as time and resources permit. Any and all contributors who might have the same need are more than welcome to contribute to this effort!
